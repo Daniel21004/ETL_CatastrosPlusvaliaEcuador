@@ -1,0 +1,17 @@
+Institución;Secretaría Técnica de Gestión Inmobiliaria del Sector Público.
+Identificador;INMOBILIAR_BASE DE DATOS DE BIENES INMUEBLES CATASTRADOS_DD_2025DIC
+Documento Referencia;INMOBILIAR_BASEDEDATOSDEBIENESINMUEBLESCATASTRADOS_2025DIC
+Nombre;BASE DE DATOS DE BIENES INMUEBLES CATASTRADOS
+Descripción;Base de datos que contiene el detalle de los bienes inmuebles catastrados por la Secretaría Técnica de Gestión Inmobiliaria del Sector Público
+Nombre del campo;Descripción del campo
+GID;Siglas que representan el nombre del Código de Identificación Geográfica del Bien inmueble.
+Clave catastral;Código único que identifica un bien inmueble ante los GAD´s a nivel nacional.
+Número de Predio;Número secuencial generado automáticamente en función al ingreso del sistema catastral municipal, dentro del GAD del Distrito Metropolitano de Quito.
+Tipo de bien;Registro del tipo de bien inmueble, para qué fue construído.
+Descripción del Inmueble;El nombre con el que se identifica a cada bien inmueble.
+Regimen del bien ;Cómo está constituído el bien inmueble, bajo el régimen de unipropiedad o de propiedad horizonal.
+clasificación ;Son el tipo de bienes inmuebles asignados a la institución para la administración, de manera permanente o transitoria.
+Provincia ;circunscripciones territoriales integradas por los cantones 
+Canton ;divisiones administrativas de segundo nivel de Ecuador
+Coordenadas X;Coordenadas geográficas meridianas o longitudinales (de Este a Oeste)
+Coordenadas Y;Coordenadas geográficas paralelas o latitudinales (de Norte a Sur)
