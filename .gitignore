@@ -2,3 +2,6 @@ workana.txt
 
 # data
 data/raw/DA_CatastrosEcuador_2025/conjunto-de-datos.csv
+
+# __pycache__
+__pycache__/
