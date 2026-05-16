@@ -1,6 +1,6 @@
 # Imports
 import polars as pl
-from implementations.plusvalia_adapter import PlusvaliaBuyAdapter
+from src.transform.implementations.plusvalia_adapter import PlusvaliaBuyAdapter
 
 def transform_gov_data(df):
     # pipeline implementation

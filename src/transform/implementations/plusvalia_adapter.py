@@ -1,4 +1,4 @@
-from interfaces.portal_adapter_interface import PortalAdapterInterface
+from src.transform.interfaces.portal_adapter_interface import PortalAdapterInterface
 import polars as pl
 
 class PlusvaliaBuyAdapter(PortalAdapterInterface):
