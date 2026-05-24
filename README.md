@@ -84,7 +84,8 @@ Esto permite analizar tendencias de precios, distribución geográfica y caracte
 
 ---
 
-## 📂 Estructura del proyecto (sugerida)
+## 📂 Estructura del proyecto
+```text
 📦 ETL_CatastrosPlusvaliaEcuador
 │
 ├── 📁 data/                     # Almacenamiento de datos crudos y procesados
@@ -122,7 +123,8 @@ Esto permite analizar tendencias de precios, distribución geográfica y caracte
 │   ├── main.py               # Punto de entrada principal del sistema
 │
 └── 📄 README.md
-
+```
+```
 ---
 
 ## 🚀 Cómo ejecutar el proyecto
