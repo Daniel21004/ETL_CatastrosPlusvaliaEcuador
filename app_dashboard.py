@@ -162,7 +162,7 @@ stl.pydeck_chart(
     pdk.Deck(
         layers=[layer],
         initial_view_state=view_state,
-        tooltip={"text": "{provincia}\n{canton}"},
+        tooltip={"text": "{provincia}\n{canton}\n{tipo}"},
         map_style="road",
     )
 )
